@@ -56,9 +56,3 @@ python chatserver.py
 python chatclient.py
 ```
 ---
-## 👨‍💻 Anggota Kelompok
-
-- M. Aditya Alfareza – 062530701512 (Lead Programmer)
-- M. Bagas – 062530701516
-- Viralen Samudra Sigit – 062530701523
-- Dapid Pratama – 062530701506
